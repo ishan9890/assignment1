@@ -15,4 +15,4 @@ else:
     print("Fail")
 print("\nResults")
 print(f"Total Marks = {t}")
-print(f"Percentage = {p}")
+print(f"Percentage = {p}%")
